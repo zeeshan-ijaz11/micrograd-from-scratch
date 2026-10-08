@@ -1,0 +1,7 @@
+# Micrograd From Scratch
+# Author: Zeeshan Ijaz
+
+# No external packages are required.
+# The project uses Python's standard library.
+
+# Python 3.10+
